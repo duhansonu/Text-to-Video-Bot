@@ -28,4 +28,4 @@ You can change the font, size, color, and position of the text by modifying the 
 You can change the duration and volume of the background music by modifying the bg_music and bg_volume variables.
 You can also change the output video format by modifying the file extension of the video_file variable in the text_to_video function.
 Credits
-This script was created by [duhansonu]. It uses the moviepy module for video editing and ffmpeg for video rendering. The background image used in the example is from Unsplash.
+This script was created by [duhansonu]. It uses the moviepy module for video editing and ffmpeg for video rendering.
